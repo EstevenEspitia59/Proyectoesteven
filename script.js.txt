@@ -1,3 +1,7 @@
 /* Documento de script*/
 
 Añadiremos funcionalidad de diseño.
+
+
+
+Cambios desde Local!.
